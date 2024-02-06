@@ -4,7 +4,7 @@ Plasma and Electromanetic physicist.
 Math = Pain
 
 Projects :
-Diamond CVD synthesis
+\n Diamond CVD synthesis
 Software Defined Radio
 Spectroscopy analysis and curve fitting
 SEM grain size calculation 
