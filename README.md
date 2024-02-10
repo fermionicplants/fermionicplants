@@ -4,10 +4,12 @@ Plasma and Electromanetic physicist.
 Math = Pain
 
 Projects :
-\n Diamond CVD synthesis
+Diamond CVD synthesis
 Software Defined Radio
-Spectroscopy analysis and curve fitting
+Spectroscopy analysis and curve fitting (primary)
+
 SEM grain size calculation 
+AI 
 
 <!---
 fermionicplants/fermionicplants is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
