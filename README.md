@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fermionicplants
-Plasma and Electromanetic physicist.
+Plasma  physicist.
 
 Math = Pain
 
