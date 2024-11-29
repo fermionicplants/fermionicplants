@@ -13,6 +13,14 @@ Spectroscopy analysis and curve fitting (primary)
 
 SEM grain size calculation 
 
+QUantum Computing
+
+Brain Simulation
+
+Non linear Attractors
+
+Chaotic solutions
+
 AI 
 
 <!---
