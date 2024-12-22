@@ -13,7 +13,7 @@ Spectroscopy analysis and curve fitting (primary)
 
 SEM grain size calculation 
 
-QUantum Computing
+Quantum Computing
 
 Brain Simulation
 
