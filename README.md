@@ -1,5 +1,5 @@
 - fermionicplants
-Plasma  physicist/Engineering Physicist / Aspiring Computer Engineer
+- Plasma  physicist/Engineering Physicist / Aspiring Computer Engineer
 
 <!---
 fermionicplants/fermionicplants is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
