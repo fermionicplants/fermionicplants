@@ -1,4 +1,4 @@
-# 🛰️ Security Research | fermionicplants
+# 🛰️ Security Researcher | fermionicplants
 
 * **Masters**: Experimental Physics and Engineering
 * **Interests**: Fuzzing binary parsers for fun
