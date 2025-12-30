@@ -1,7 +1,8 @@
 # 🛰️ Security Research | fermionicplants
 
 Mathematics, numerical analysis, and ML supply chain security. I specialize in fuzzing binary parsers and identifying logic failures in model serialization.
-Masters in Physics and Engineering
+Masters in Experimental Physics and Engineering
+fuzzing code for fun iguess
 Everything is math
 
 ---
@@ -16,18 +17,17 @@ Everything is math
 
 ---
 
-### 📊 Vital Signs
+###b
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=fermionicplants&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fermionicplants&show_icons=true&theme=dark&hide_border=true&count_private=true&disable_animations=true" width="400" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fermionicplants&layout=compact&theme=dark&hide_border=true" width="300" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fermionicplants&layout=compact&theme=dark&hide_border=true" width="300" />
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🔬 Active Research
