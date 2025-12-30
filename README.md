@@ -4,6 +4,7 @@ Mathematics, numerical analysis, and ML supply chain security. I specialize in f
 Masters in Experimental Physics and Engineering
 fuzzing code for fun iguess
 Everything is math
+Going to eventually record everything
 
 ---
 
@@ -17,7 +18,7 @@ Everything is math
 
 ---
 
-###b
+###stat
 <table border="0">
   <tr>
     <td>
