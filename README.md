@@ -1,10 +1,9 @@
 # 🛰️ Security Research | fermionicplants
 
-Mathematics, numerical analysis, and ML supply chain security. I specialize in fuzzing binary parsers and identifying logic failures in model serialization.
-Masters in Experimental Physics and Engineering
-fuzzing code for fun iguess
-Everything is math
-Going to eventually record everything
+* **Masters**: Experimental Physics and Engineering
+* **Interests**: Fuzzing binary parsers for fun
+* **Philosophy**: Everything is math
+* **Goal**: Recording all findings for the community
 
 ---
 
