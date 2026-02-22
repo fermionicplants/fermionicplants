@@ -1,6 +1,6 @@
 # 🛰️ Security Researcher | fermionicplants
 
-* **Masters**: Experimental Physics and Engineering
+* **PHD**: Experimental Physics and Engineering
 * **Interests**: Fuzzing binary parsers for fun
 * **Philosophy**: Everything is math
 * **Goal**: Recording all findings for the community
